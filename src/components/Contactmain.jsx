@@ -8,9 +8,11 @@ function Contactmain() {
       <div className="columns contact has-text-centered">
         <div className="column">
           <h1>Email</h1>
+          <i class="fas-brands fa-facebook"></i>
         </div>
         <div className="column">
           <h1>Social</h1>
+          <i class="fa-brands fa-facebook"></i>
         </div>
       </div>
     </section>

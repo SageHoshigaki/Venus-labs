@@ -33,12 +33,22 @@ navbar-item {
 }
 
 .service-head {
-  font-size: 42px;
-  padding: 100px 150px;
+  font-size: 32px;
+  padding: 100px 150px 100px 50px;
 }
-
+.service-contact {
+  margin: 20% 0;
+}
 .footer {
   background-color: black !important;
   font-family: "Montserrat", sans-serif;
   color: white;
+}
+
+.fa-brands {
+  color: white !important;
+}
+
+.navbar-end {
+  margin-top: 2%;
 }

@@ -4,7 +4,9 @@ import { Link } from "react-router-dom";
 function Nav() {
   return (
     <div class="navbar-menu">
-      <div class="navbar-start"></div>
+      <div class="navbar-start">
+        <img src="./img/Venus.png" alt="Venus" width="112" height="28" />
+      </div>
 
       <div class="navbar-end">
         <Link class="itembar" to="/">
