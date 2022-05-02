@@ -10,8 +10,8 @@ function Nav() {
         <Link class="itembar" to="/">
           Home
         </Link>
-        <Link class="itembar" to="/about">
-          About
+        <Link class="itembar" to="/services">
+          Services
         </Link>
         <Link class="itembar" to="/contact">
           Contact
