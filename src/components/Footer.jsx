@@ -10,7 +10,7 @@ function Footer() {
           </h1>
         </div>
         <div className="column ">
-          <div class="columns has-text-centered is-flex-wrap-wrap">
+          <div class=" has-text-centered is-flex-wrap-wrap">
             <div className="columns">
               <div class="column">
                 <h1>New York</h1>

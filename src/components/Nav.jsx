@@ -5,7 +5,13 @@ function Nav() {
   return (
     <div class="navbar-menu">
       <div class="navbar-start">
-        <img src="./img/Venus.png" alt="Venus" width="112" height="28" />
+        <img
+          src="./img/Venus.png"
+          alt="Venus"
+          width="112"
+          height="28"
+          href="/"
+        />
       </div>
 
       <div class="navbar-end">
