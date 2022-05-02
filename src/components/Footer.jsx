@@ -1,5 +1,5 @@
 import React from "react";
-import Office from "../components/Office";
+
 function Footer() {
   return (
     <footer className="footer">
@@ -34,9 +34,7 @@ function Footer() {
               </div>
               <div class="column">
                 <h1>London</h1>
-                <h3>
-                  131 Finsbury Pavement <br></br> London EC2A 1NT
-                </h3>
+                <h3>131 Finsbury Pavement London EC2A 1NT</h3>
               </div>
             </div>
           </div>
