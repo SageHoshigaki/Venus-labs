@@ -16,7 +16,11 @@ navbar-item {
 }
 
 .itembar {
-  margin: 0 6px;
+  margin: 0 30px;
   text-decoration: none !important;
   color: white !important;
+}
+
+.contact-mess {
+  font-size: 80px;
 }
