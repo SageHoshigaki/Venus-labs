@@ -1,0 +1,22 @@
+body,
+html {
+  background-color: black;
+  color: white;
+  height: 100%;
+}
+navbar-item {
+  color: white !important;
+}
+.glitch {
+  font-size: 200px;
+}
+
+.operating-location {
+  margin: 50px 0 50px 0;
+}
+
+.itembar {
+  margin: 0 6px;
+  text-decoration: none !important;
+  color: white !important;
+}
