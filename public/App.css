@@ -1,5 +1,6 @@
 body,
 html {
+  font-family: "Montserrat", sans-serif;
   background-color: black;
   color: white;
   height: 100%;
@@ -22,10 +23,22 @@ navbar-item {
 }
 
 .contact-mess {
-  font-size: 80px;
+  font-size: 60px;
+  padding: 190px 200px 50px 50px;
+}
+
+.contact {
+  padding-top: 16%;
+  padding-bottom: 8%;
 }
 
 .service-head {
   font-size: 42px;
   padding: 100px 150px;
+}
+
+.footer {
+  background-color: black !important;
+  font-family: "Montserrat", sans-serif;
+  color: white;
 }
