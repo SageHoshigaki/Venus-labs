@@ -15,10 +15,10 @@ function Contactmain() {
 
         <div className="column">
           <h1>Social</h1>
-          <a href="">
+          <a href="https://www.facebook.com/Venus-Labs-101182012595179/">
             <i class="fa fa-facebook" aria-hidden="true"></i>
           </a>
-          <a href="">
+          <a href="https://www.instagram.com/venus__labs/">
             <i class="fa fa-instagram" aria-hidden="true"></i>
           </a>
         </div>
