@@ -2,6 +2,9 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 function Nav() {
+  function toggleMenu(target) {
+    target.classList.toggle("is-active");
+  }
   return (
     <nav
       class="navbar is-transparent"
@@ -9,14 +12,16 @@ function Nav() {
       aria-label="main navigation"
     >
       <div class="navbar-brand">
-        <img src="./img/Venus.png" alt="Venus" width="112" height="28" />
-
+        <a href="/">
+          <img src="./img/Venus.png" alt="Venus" width="112" height="28" />
+        </a>
         <a
           role="button"
           class="navbar-burger"
           aria-label="menu"
           aria-expanded="false"
           href="/"
+          onClick={toggleMenu}
         >
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>

@@ -38,7 +38,9 @@ navbar-item {
 .service-head {
   font-size: 32px;
   padding: 100px 150px 100px 50px;
+  margin-bottom: 15%;
 }
+
 .service-contact {
   margin: 20% 0;
 }
@@ -73,4 +75,21 @@ nav {
 
 .fa {
   color: white !important;
+}
+
+.service-mobile {
+  margin-bottom: 25%;
+}
+
+.service-ux {
+  margin-bottom: 15%;
+}
+
+.ux-head {
+  font-size: 32px;
+}
+.mobile-head {
+  font-size: 28px;
+  font-weight: 200;
+  margin-bottom: 2%;
 }
