@@ -7,12 +7,14 @@ function Contactmain() {
 
       <div className="columns contact has-text-centered">
         <div className="column">
-          <h1>Email</h1>
-          <i class="fas-brands fa-facebook"></i>
+          <h1>Email Us</h1>
+          <i class="fa fa-envelope" aria-hidden="true"></i>
         </div>
+
         <div className="column">
           <h1>Social</h1>
-          <i class="fa-brands fa-facebook"></i>
+          <i class="fa fa-facebook" aria-hidden="true"></i>
+          <i class="fa fa-instagram" aria-hidden="true"></i>
         </div>
       </div>
     </section>

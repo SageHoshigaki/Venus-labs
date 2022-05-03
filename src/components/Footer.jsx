@@ -5,6 +5,10 @@ function Footer() {
     <footer className="footer">
       <div className="columns">
         <div className="column is-three-fifths">
+          <div className="has-text-centered">
+            <img src="./img/Venus.png" alt="Venus" width="48" height="18" />
+          </div>
+
           <h1 className="has-text-centered">
             We are an agency that focuses on problem solving and creativity
           </h1>

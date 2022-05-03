@@ -1,14 +1,14 @@
 import React from "react";
 import Nav from "../components/Nav";
 import Contactmain from "../components/Contactmain";
-import Office from "../components/Office";
+import Footer from "../components/Footer";
 
 function Contact() {
   return (
-    <div>
+    <div className="cont-pg">
       <Nav />
       <Contactmain />
-      <Office />
+      <Footer />
     </div>
   );
 }

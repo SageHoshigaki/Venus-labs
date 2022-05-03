@@ -9,11 +9,11 @@ navbar-item {
   color: white !important;
 }
 .glitch {
-  font-size: 200px;
+  font-size: 8rem;
 }
 
 .operating-location {
-  margin: 50px 0 50px 0;
+  margin: 50px 0 200px 0;
 }
 
 .itembar {
@@ -51,4 +51,19 @@ navbar-item {
 
 .navbar-end {
   margin-top: 2%;
+}
+nav {
+  background-color: transparent !important;
+}
+
+.cont-pg {
+  margin-bottom: 40px;
+}
+
+.fa-envelope {
+  width: 40%;
+}
+
+.fa-facebook {
+  padding: 0 8px;
 }
