@@ -28,6 +28,20 @@ function ServiceMain() {
               ></video>
             </div>
           </div>
+          <div className="columns mobile-text">
+            <div className="column is-half has-text-centered">
+              <h1 className="main-mobile-text">
+                We Build Applications <br></br>Using The Latest Technologies
+              </h1>
+            </div>
+            <div className="column">
+              <h1 className="sec-mobile-text has-text-centered">
+                Put Something Relevant To Point And Give Technical Detail and
+                feel. Put Something Relevant To Point And Give Technical Detail
+                and feel.
+              </h1>
+            </div>
+          </div>
         </section>
         <section className="service-ux">
           <div className="columns">
@@ -42,6 +56,10 @@ function ServiceMain() {
             </div>
           </div>
           <h1 className="ux-head has-text-centered">Ux-Ui</h1>
+          <h1 className=" has-text-centered">
+            Put Something Relevant To Point And Give Technical Detail and feel.
+            Put Something Relevant To Point And Give Technical Detail and feel.
+          </h1>
         </section>
       </section>
     </div>
