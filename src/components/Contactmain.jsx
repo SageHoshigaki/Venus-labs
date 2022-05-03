@@ -8,13 +8,19 @@ function Contactmain() {
       <div className="columns contact has-text-centered">
         <div className="column">
           <h1>Email Us</h1>
-          <i class="fa fa-envelope" aria-hidden="true"></i>
+          <a href="mailto:venussoftwareco@gmail.com">
+            <i class="fa fa-envelope" aria-hidden="true"></i>
+          </a>
         </div>
 
         <div className="column">
           <h1>Social</h1>
-          <i class="fa fa-facebook" aria-hidden="true"></i>
-          <i class="fa fa-instagram" aria-hidden="true"></i>
+          <a href="">
+            <i class="fa fa-facebook" aria-hidden="true"></i>
+          </a>
+          <a href="">
+            <i class="fa fa-instagram" aria-hidden="true"></i>
+          </a>
         </div>
       </div>
     </section>

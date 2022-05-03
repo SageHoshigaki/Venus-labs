@@ -5,6 +5,9 @@ html {
   color: white;
   height: 100%;
 }
+i {
+  text-decoration: none;
+}
 navbar-item {
   color: white !important;
 }
@@ -66,4 +69,8 @@ nav {
 
 .fa-facebook {
   padding: 0 8px;
+}
+
+.fa {
+  color: white !important;
 }
