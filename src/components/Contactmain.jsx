@@ -3,13 +3,15 @@ import React from "react";
 function Contactmain() {
   return (
     <section class="">
-      <h1 className="contact-mess">We Would Be Delighted To Hear From You.</h1>
+      <h1 className="contact-mess">
+        We Would Be Delighted To <br></br>Hear From You.
+      </h1>
 
       <div className="columns contact has-text-centered">
-        <div className="column">
+        <div className="column email-co">
           <h1>Email Us</h1>
           <a href="mailto:venussoftwareco@gmail.com">
-            <i class="fa fa-envelope" aria-hidden="true"></i>
+            <i class="fa fa-envelope fa-lg" aria-hidden="true"></i>
           </a>
         </div>
 
