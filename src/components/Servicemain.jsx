@@ -37,7 +37,7 @@ function ServiceMain() {
             <div className="column">
               <h1 className="sec-mobile-text has-text-centered">
                 As a technology company we always try to deliver cutting edge
-                products to future proof our clients.
+                applications to future proof our clients products.
               </h1>
             </div>
           </div>
@@ -56,7 +56,7 @@ function ServiceMain() {
           </div>
           <h1 className="ux-head has-text-centered">Ux-Ui</h1>
           <h1 className=" has-text-centered">
-            Easy To Use Applications That Arent Bad To Look At.
+            Easy To Use Applications That Arent Too Bad To Look At.
           </h1>
         </section>
       </section>
