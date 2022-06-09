@@ -36,9 +36,8 @@ function ServiceMain() {
             </div>
             <div className="column">
               <h1 className="sec-mobile-text has-text-centered">
-                Put Something Relevant To Point And Give Technical Detail and
-                feel. Put Something Relevant To Point And Give Technical Detail
-                and feel.
+                As a technology company we always try to deliver cutting edge
+                products to future proof our clients.
               </h1>
             </div>
           </div>
@@ -57,8 +56,7 @@ function ServiceMain() {
           </div>
           <h1 className="ux-head has-text-centered">Ux-Ui</h1>
           <h1 className=" has-text-centered">
-            Put Something Relevant To Point And Give Technical Detail and feel.
-            Put Something Relevant To Point And Give Technical Detail and feel.
+            Easy To Use Applications That Arent Bad To Look At.
           </h1>
         </section>
       </section>

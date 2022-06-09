@@ -1,10 +1,8 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 function Nav() {
-  function toggleMenu(target) {
-    target.classList.toggle("is-active");
-  }
+  const [triggerCur, setTrigger] = useState(false);
   return (
     <nav
       class="navbar is-transparent"
@@ -21,7 +19,6 @@ function Nav() {
           aria-label="menu"
           aria-expanded="false"
           href="/"
-          onClick={toggleMenu}
         >
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
